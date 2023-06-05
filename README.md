@@ -17,6 +17,10 @@ Agora que temos as bases de criação de APIs e banco de dados, o próximo níve
 - Roteamento
 - Postman
 
+# Link para documentação: Postman
+
+- https://documenter.getpostman.com/view/24823090/2s93sXbuNq
+
 # Banco de dados
 ![projeto-labook (2)](https://user-images.githubusercontent.com/29845719/216036534-2b3dfb48-7782-411a-bffd-36245b78594e.png)
 
