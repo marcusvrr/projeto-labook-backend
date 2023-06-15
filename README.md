@@ -1,3 +1,7 @@
+# Projeto backend
+Feito por Marcus Vinicius Ramos Rodrigues.
+Visando aplicação de conhecimento em conteúdo adquirido em bootcamp.
+
 # Projeto Labook
 O Labook é uma rede social com o objetivo de promover a conexão e interação entre pessoas. Quem se cadastrar no aplicativo poderá criar e curtir publicações.
 
@@ -16,6 +20,10 @@ Agora que temos as bases de criação de APIs e banco de dados, o próximo níve
 - Autenticação e autorização
 - Roteamento
 - Postman
+
+# Link para documentação no Postman:
+
+- https://documenter.getpostman.com/view/24823090/2s93sXbuNq
 
 # Banco de dados
 ![projeto-labook (2)](https://user-images.githubusercontent.com/29845719/216036534-2b3dfb48-7782-411a-bffd-36245b78594e.png)
